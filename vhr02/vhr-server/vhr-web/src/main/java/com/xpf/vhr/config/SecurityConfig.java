@@ -46,11 +46,11 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 	protected void configure(AuthenticationManagerBuilder auth) throws Exception {
 		auth.userDetailsService(hrService);
 	}
-
-	@Override
-	public void configure(WebSecurity web) throws Exception {
-		web.ignoring().antMatchers("/login","/css/**","/js/**","/img/**","/fonts/**","/index.html","favicon.icon");
-	}
+//	主要是不对前段数据做拦截
+//	@Override
+//	public void configure(WebSecurity web) throws Exception {
+//		web.ignoring().antMatchers("/login","/css/**","/js/**","/img/**","/fonts/**","/index.html","favicon.icon");
+//	}
 
 	@Override
 	protected void configure(HttpSecurity http) throws Exception {

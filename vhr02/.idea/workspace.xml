@@ -1,7 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2d1fd9d-7363-4e7d-9ab1-19fc56dc113c" name="Default Changelist" comment="" />
+    <list default="true" id="c2d1fd9d-7363-4e7d-9ab1-19fc56dc113c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-mapper/target/vhr-mapper-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-mapper/target/vhr-mapper-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-model/target/vhr-model-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-model/target/vhr-model-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-service/target/vhr-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-service/target/vhr-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/java/com/xpf/vhr/config/MyAccessDecisionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/java/com/xpf/vhr/config/MyAccessDecisionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/java/com/xpf/vhr/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/java/com/xpf/vhr/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/css/app.0bbbaff2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/css/chunk-32db800e.12c4e4ef.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/css/chunk-e1f5a306.10fc110a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/css/chunk-vendors.3c74d39a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/fonts/element-icons.535877f5.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/fonts/element-icons.732389de.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/fonts/fontawesome-webfont.674f50d2.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/fonts/fontawesome-webfont.af7ae505.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/fonts/fontawesome-webfont.b06871f2.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/fonts/fontawesome-webfont.fee66e71.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/img/fontawesome-webfont.912ec66d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/app.c7394f88.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/app.c7394f88.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-18458ebc.24e6832c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-18458ebc.24e6832c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-2d0d03c8.9496cdf9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-2d0d03c8.9496cdf9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-2d237c54.e6f13288.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-2d237c54.e6f13288.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-32db800e.0d83632a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-32db800e.0d83632a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-33b8cd94.0f823404.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-33b8cd94.0f823404.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-4e552d82.3ecaad7a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-4e552d82.3ecaad7a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-df7e035a.e4dcb739.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-df7e035a.e4dcb739.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-e1f5a306.8158ad23.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-e1f5a306.8158ad23.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-vendors.c080a82a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static/js/chunk-vendors.c080a82a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/com/xpf/vhr/config/MyAccessDecisionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/com/xpf/vhr/config/MyAccessDecisionManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/com/xpf/vhr/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/com/xpf/vhr/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/css/app.0bbbaff2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/css/chunk-32db800e.12c4e4ef.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/css/chunk-e1f5a306.10fc110a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/css/chunk-vendors.3c74d39a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/fonts/element-icons.535877f5.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/fonts/element-icons.732389de.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/fonts/fontawesome-webfont.674f50d2.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/fonts/fontawesome-webfont.af7ae505.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/fonts/fontawesome-webfont.b06871f2.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/fonts/fontawesome-webfont.fee66e71.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/img/fontawesome-webfont.912ec66d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/app.c7394f88.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/app.c7394f88.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-18458ebc.24e6832c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-18458ebc.24e6832c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-2d0d03c8.9496cdf9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-2d0d03c8.9496cdf9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-2d237c54.e6f13288.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-2d237c54.e6f13288.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-32db800e.0d83632a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-32db800e.0d83632a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-33b8cd94.0f823404.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-33b8cd94.0f823404.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-4e552d82.3ecaad7a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-4e552d82.3ecaad7a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-df7e035a.e4dcb739.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-df7e035a.e4dcb739.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-e1f5a306.8158ad23.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-e1f5a306.8158ad23.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-vendors.c080a82a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/classes/static/js/chunk-vendors.c080a82a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/surefire-reports/TEST-com.xpf.vhr.VhrApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/target/surefire-reports/TEST-com.xpf.vhr.VhrApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/surefire-reports/com.xpf.vhr.VhrApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/target/surefire-reports/com.xpf.vhr.VhrApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/vhr-web-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/target/vhr-web-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/target/vhr-web-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/target/vhr-web-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/vhr-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/vhr-web.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +128,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -51,9 +149,11 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectId" id="1Y1RdXBopeYcKboDeuYRdZ05tfy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -63,9 +163,10 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/vhr-server/vhr-web/src/main/resources/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mailserver" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -75,7 +176,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.45172414" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -214,6 +316,9 @@
       <workItem from="1582986421506" duration="34000" />
       <workItem from="1582986565824" duration="1054000" />
       <workItem from="1583043709543" duration="4993000" />
+      <workItem from="1586183086700" duration="103000" />
+      <workItem from="1586183208934" duration="239000" />
+      <workItem from="1586183485301" duration="4536000" />
     </task>
     <servers />
   </component>
@@ -229,11 +334,11 @@
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
     <state x="2405" y="265" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1582777939269" />
-    <state x="2143" y="71" width="1155" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582977846445">
+    <state x="2143" y="71" width="1164" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586183308921">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="71" width="1155" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582108262316" />
-    <state x="2143" y="71" width="1155" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1582977846445" />
+    <state x="2143" y="71" width="1164" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1586183308921" />
     <state x="2494" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1582983306988">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
@@ -243,11 +348,11 @@
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
     <state x="2418" y="193" key="#com.intellij.ide.util.PackageChooserDialog/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1582461396393" />
-    <state x="2451" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582977844048">
+    <state x="2451" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586183304356">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
     <state x="531" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1582108258838" />
-    <state x="2451" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1582977844048" />
+    <state x="2451" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1586183304356" />
     <state x="355" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582108753034">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -256,58 +361,66 @@
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
     <state x="2221" y="64" key="#vhr-web/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1582977953041" />
-    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1583048796780">
+    <state x="2533" y="168" key="FileChooserDialogImpl" timestamp="1586184202759">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2533" y="168" key="FileChooserDialogImpl/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1586184202759" />
+    <state width="1493" height="186" key="GridCell.Tab.0.bottom" timestamp="1586187344016">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582379422779" />
-    <state width="1493" height="218" key="GridCell.Tab.0.bottom/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1583048796780" />
+    <state width="1493" height="186" key="GridCell.Tab.0.bottom/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1586187344016" />
     <state width="821" height="245" key="GridCell.Tab.0.bottom/1920.0.864.1496/0.0.1536.824@1920.0.864.1496" timestamp="1582463062954" />
-    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1583048796780">
+    <state width="1493" height="186" key="GridCell.Tab.0.center" timestamp="1586187344016">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582379422778" />
-    <state width="1493" height="218" key="GridCell.Tab.0.center/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1583048796780" />
+    <state width="1493" height="186" key="GridCell.Tab.0.center/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1586187344016" />
     <state width="821" height="245" key="GridCell.Tab.0.center/1920.0.864.1496/0.0.1536.824@1920.0.864.1496" timestamp="1582463062954" />
-    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1583048796780">
+    <state width="1493" height="186" key="GridCell.Tab.0.left" timestamp="1586187344016">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582379422778" />
-    <state width="1493" height="218" key="GridCell.Tab.0.left/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1583048796780" />
+    <state width="1493" height="186" key="GridCell.Tab.0.left/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1586187344016" />
     <state width="821" height="245" key="GridCell.Tab.0.left/1920.0.864.1496/0.0.1536.824@1920.0.864.1496" timestamp="1582463062954" />
-    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1583048796780">
+    <state width="1493" height="186" key="GridCell.Tab.0.right" timestamp="1586187344016">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582379422778" />
-    <state width="1493" height="218" key="GridCell.Tab.0.right/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1583048796780" />
+    <state width="1493" height="186" key="GridCell.Tab.0.right/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1586187344016" />
     <state width="821" height="245" key="GridCell.Tab.0.right/1920.0.864.1496/0.0.1536.824@1920.0.864.1496" timestamp="1582463062954" />
-    <state width="1244" height="203" key="GridCell.Tab.1.bottom" timestamp="1583048533709">
+    <state width="1244" height="285" key="GridCell.Tab.1.bottom" timestamp="1586187052658">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582379422779" />
-    <state width="1244" height="203" key="GridCell.Tab.1.bottom/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1583048533709" />
+    <state width="1244" height="285" key="GridCell.Tab.1.bottom/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1586187052658" />
     <state width="821" height="245" key="GridCell.Tab.1.bottom/1920.0.864.1496/0.0.1536.824@1920.0.864.1496" timestamp="1582463062954" />
-    <state width="1244" height="203" key="GridCell.Tab.1.center" timestamp="1583048533708">
+    <state width="1244" height="285" key="GridCell.Tab.1.center" timestamp="1586187052658">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582379422779" />
-    <state width="1244" height="203" key="GridCell.Tab.1.center/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1583048533708" />
+    <state width="1244" height="285" key="GridCell.Tab.1.center/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1586187052658" />
     <state width="821" height="245" key="GridCell.Tab.1.center/1920.0.864.1496/0.0.1536.824@1920.0.864.1496" timestamp="1582463062954" />
-    <state width="1244" height="203" key="GridCell.Tab.1.left" timestamp="1583048533708">
+    <state width="1244" height="285" key="GridCell.Tab.1.left" timestamp="1586187052658">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582379422779" />
-    <state width="1244" height="203" key="GridCell.Tab.1.left/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1583048533708" />
+    <state width="1244" height="285" key="GridCell.Tab.1.left/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1586187052658" />
     <state width="821" height="245" key="GridCell.Tab.1.left/1920.0.864.1496/0.0.1536.824@1920.0.864.1496" timestamp="1582463062954" />
-    <state width="1244" height="203" key="GridCell.Tab.1.right" timestamp="1583048533709">
+    <state width="1244" height="285" key="GridCell.Tab.1.right" timestamp="1586187052658">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582379422779" />
-    <state width="1244" height="203" key="GridCell.Tab.1.right/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1583048533709" />
+    <state width="1244" height="285" key="GridCell.Tab.1.right/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1586187052658" />
     <state width="821" height="245" key="GridCell.Tab.1.right/1920.0.864.1496/0.0.1536.824@1920.0.864.1496" timestamp="1582463062954" />
-    <state x="2190" y="58" width="1266" height="708" key="SettingsEditor" timestamp="1582778046059">
+    <state x="2392" y="175" key="NewModule_or_Project.wizard" timestamp="1586184210692">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
-    <state x="2190" y="58" width="1266" height="708" key="SettingsEditor/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1582778046059" />
+    <state x="2392" y="175" key="NewModule_or_Project.wizard/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1586184210692" />
+    <state x="2065" y="90" width="1266" height="708" key="SettingsEditor" timestamp="1586184227585">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2065" y="90" width="1266" height="708" key="SettingsEditor/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1586184227585" />
     <state x="2089" y="159" key="new project wizard" timestamp="1582982805092">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
